@@ -3,7 +3,7 @@ install latest version python3
 ```
 apt install python3 
 
-pip install seleniumpip install selenium
+pip install selenium
 ```
 download chrome browser latest version
 ```
